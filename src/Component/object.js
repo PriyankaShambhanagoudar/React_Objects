@@ -95,6 +95,7 @@ const Object = () => {
                     </tbody>
                 </table>
             </Row>
+
         </div>
     );
 }
